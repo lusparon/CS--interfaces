@@ -1,0 +1,7 @@
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\CONSOLE\bin\Debug\CONSOLE.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\CONSOLE\bin\Debug\CONSOLE.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\CONSOLE\bin\Debug\CONSOLE.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\CONSOLE\obj\Debug\CONSOLE.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\CONSOLE\obj\Debug\CONSOLE.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\CONSOLE\obj\Debug\CONSOLE.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\CONSOLE\obj\Debug\CONSOLE.pdb
