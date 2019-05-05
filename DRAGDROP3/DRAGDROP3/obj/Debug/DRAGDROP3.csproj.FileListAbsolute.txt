@@ -1,0 +1,10 @@
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\bin\Debug\DRAGDROP3.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\bin\Debug\DRAGDROP3.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\bin\Debug\DRAGDROP3.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\obj\Debug\DRAGDROP3.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\obj\Debug\DRAGDROP3.Form1.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\obj\Debug\DRAGDROP3.Properties.Resources.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\obj\Debug\DRAGDROP3.csproj.GenerateResource.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\obj\Debug\DRAGDROP3.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\obj\Debug\DRAGDROP3.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DRAGDROP3\DRAGDROP3\obj\Debug\DRAGDROP3.pdb

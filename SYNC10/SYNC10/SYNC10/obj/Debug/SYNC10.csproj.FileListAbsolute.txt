@@ -1,0 +1,11 @@
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\bin\Debug\SYNC10.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\bin\Debug\SYNC10.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\bin\Debug\SYNC10.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\obj\Debug\SYNC10.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\obj\Debug\SYNC10.Form1.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\obj\Debug\SYNC10.Properties.Resources.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\obj\Debug\SYNC10.csproj.GenerateResource.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\obj\Debug\SYNC10.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\obj\Debug\SYNC10.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\obj\Debug\SYNC10.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\SYNC10\SYNC10\obj\Debug\SYNC10.Form2.resources
