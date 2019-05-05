@@ -51,6 +51,7 @@ namespace DRAGDROP3
         {
             Label src = e.Data.GetData(typeof(Label)) as Label;
             Label trg = sender as Label;//this
+            if (src == trg) return;
             trg.Text = trg.Text + src.Text;
         }
 
