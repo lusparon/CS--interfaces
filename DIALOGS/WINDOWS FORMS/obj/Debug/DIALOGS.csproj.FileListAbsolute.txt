@@ -1,0 +1,22 @@
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\bin\Debug\DIALOGS.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\bin\Debug\DIALOGS.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\bin\Debug\DIALOGS.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\obj\Debug\DIALOGS.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\obj\Debug\DIALOGS.Form1.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\obj\Debug\DIALOGS.Properties.Resources.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\obj\Debug\DIALOGS.csproj.GenerateResource.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\obj\Debug\DIALOGS.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\obj\Debug\DIALOGS.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\obj\Debug\DIALOGS.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\obj\Debug\DIALOGS.Form2.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\bin\Debug\DIALOGS.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\bin\Debug\DIALOGS.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\bin\Debug\DIALOGS.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\obj\Debug\DIALOGS.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\obj\Debug\DIALOGS.Form1.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\obj\Debug\DIALOGS.Form2.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\obj\Debug\DIALOGS.Properties.Resources.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\obj\Debug\DIALOGS.csproj.GenerateResource.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\obj\Debug\DIALOGS.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\obj\Debug\DIALOGS.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WINDOWS FORMS\obj\Debug\DIALOGS.pdb

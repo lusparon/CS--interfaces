@@ -1,0 +1,51 @@
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.exe.config
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.exe
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.pdb
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csprojResolveAssemblyReference.cache
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\MainWindow.g.cs
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\App.g.cs
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF_MarkupCompile.cache
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF_MarkupCompile.lref
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\MainWindow.baml
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.g.resources
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.Properties.Resources.resources
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csproj.GenerateResource.cache
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csproj.CoreCompileInputs.cache
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.exe
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.pdb
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\Window1.g.cs
+C:\Users\arter\Desktop\sem4\interfaces\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\Window1.baml
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.exe.config
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.exe
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.pdb
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csprojAssemblyReference.cache
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\MainWindow.g.cs
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\Window1.g.cs
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\App.g.cs
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF_MarkupCompile.cache
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF_MarkupCompile.lref
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\MainWindow.baml
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\Window1.baml
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.g.resources
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.Properties.Resources.resources
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csproj.GenerateResource.cache
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csproj.CoreCompileInputs.cache
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.exe
+C:\dreamy\DIALOGS2\WPF\SOURCE\DIALOGS2WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.exe.config
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\bin\Debug\DIALOGS2WPF.pdb
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csprojAssemblyReference.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\MainWindow.g.cs
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\Window1.g.cs
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\App.g.cs
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF_MarkupCompile.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF_MarkupCompile.lref
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\MainWindow.baml
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\Window1.baml
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.g.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.Properties.Resources.resources
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csproj.GenerateResource.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.csproj.CoreCompileInputs.cache
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.exe
+C:\Users\luspa\OneDrive\Рабочий стол\Интерфейсы\DIALOGS\WPF\DIALOGS2WPF\obj\Debug\DIALOGS2WPF.pdb
